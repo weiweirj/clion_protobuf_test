@@ -1,0 +1,9 @@
+# ninja log v5
+91	1154	6902743324495781	CMakeFiles/untitled4.dir/main.cpp.obj	72b9a3750af7f9e3
+1114	1567	6902742015235433	untitled4.exe	43e42da788d0b5b4
+6	89	6902743313911606	F:/c++/untitled4/cmake-build-debug/addressbook.pb.h	19f9a5682cd26fdb
+6	89	6902743313911606	F:/c++/untitled4/cmake-build-debug/addressbook.pb.cc	19f9a5682cd26fdb
+3	789	6902743449647997	build.ninja	dd142156150e517e
+6	89	6902743313911606	addressbook.pb.h	19f9a5682cd26fdb
+6	89	6902743313911606	addressbook.pb.cc	19f9a5682cd26fdb
+117	3134	6902743344205630	CMakeFiles/untitled4.dir/addressbook.pb.cc.obj	2769ab16e88dbc32
